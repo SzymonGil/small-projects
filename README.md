@@ -1,2 +1,2 @@
 # test
-test repository for git learning and python
+repo for small projects created in python
