@@ -1,4 +1,4 @@
-
+#hangam game, guess the word
 
 import random
 
